@@ -1,0 +1,79 @@
+Columns
+	
+
+Description
+
+date_time
+	
+
+Date, time, and hour of the data that is collected in the local IST time
+
+is_holiday
+	
+
+Categorical Indian national holidays combined with regional holidays
+
+air_pollution_index
+	
+
+Air Quality Index (10-300)
+
+humidity
+	
+
+Numeric humidity in Celcius
+
+wind_speed
+	
+
+Numeric wind speed in miles per hour
+
+wind_direction
+	
+
+Cardinal wind direction (0-360 degree)
+
+visibility_in_miles
+	
+
+Visibility of distance in miles
+
+dew_point
+	
+
+Numeric dew point in Celcius
+
+temperature
+	
+
+Numeric average temperature in Kelvin
+
+rain_p_h
+	
+
+Numeric amount in mm of rain that occurred in the hour
+
+snow_p_h
+	
+
+Numeric amount in mm of snow that occurred in the hour
+
+clouds_all
+	
+
+Numeric percentage of cloud cover
+
+weather_type
+	
+
+Categorical short textual description of the current weather
+
+weather_description
+	
+
+Categorical longer textual description of the current weather
+
+traffic_volume
+	
+
+Numeric hourly traffic volume bound in a specific direction
